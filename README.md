@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @HaKicha
+## 👋 Hi, I’m Kicha
 - 👀 I’m interested in modern web technologies
 - :speech_balloon: Ask me about JavaScript, React, ArcGis, APP-6, MIP
 - 📫 How to reach me [Gmail](mailto:ivankika.1999@gmail.com) [Telegram](https://t.me/KichaKovalski)
